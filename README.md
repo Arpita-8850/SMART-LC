@@ -49,6 +49,6 @@ https://www.youtube.com/watch?v=VLvS8Zu626M
  **Aishvarya Birambole**\
  **Aditi Pawar**\
  **Saurav Deore**\
- **Neha Kashid**\
+ **Neha Kashid**
 
 ![alt text](https://github.com/Arpita-8850/SMART-LC/blob/master/SMART%20LC.jpg)

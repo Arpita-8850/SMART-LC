@@ -5,6 +5,7 @@
 - For demo purpose we have added Leaving Certificate, Train Concession and bonafide.
 
 ![alt text](https://github.com/Arpita-8850/SMART-LC/blob/main/photo.png)
+
 ## Need:
 - 80% Indian colleges provide only hard copy of documents & certificates, but completing the procedure is very time-consuming as it requires a lot of paperwork which brings extreme pressure on staff and students. 
 - Apart from that, there is also wastage of papers as paperwork require bundles of document copies. 
@@ -20,7 +21,7 @@
 6. PHPmyAdmin
 7. Microsoft Visual redistributable packages
 
-## Languages used – 
+## Languages used:
 1. JAVA
 2. PHP
 3. HTML
@@ -39,6 +40,9 @@
 - Highly secured.
 - All the dues should be compulsorily paid to obtain Leaving Certificate.
 - Eco friendly and less electricity consumption.
+
+## Demo Video Link 👇🏻
+https://www.youtube.com/watch?v=VLvS8Zu626M
 
 ## Authors
  It was a Diploma final year project made by-

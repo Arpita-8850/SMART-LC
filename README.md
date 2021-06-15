@@ -44,7 +44,7 @@
 https://www.youtube.com/watch?v=VLvS8Zu626M
 
 ## Authors
- It was a Diploma final year project made by-
+ It was a Diploma final year project made by-\
  **Arpita Kar**\
  **Aishvarya Birambole**\
  **Aditi Pawar**\

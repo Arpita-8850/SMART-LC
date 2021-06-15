@@ -6,6 +6,10 @@
 
 ![alt text](https://github.com/Arpita-8850/SMART-LC/blob/master/photo.png)
 
+
+## Demo Video Link 👇🏻
+https://www.youtube.com/watch?v=VLvS8Zu626M
+
 ## Need:
 - 80% Indian colleges provide only hard copy of documents & certificates, but completing the procedure is very time-consuming as it requires a lot of paperwork which brings extreme pressure on staff and students. 
 - Apart from that, there is also wastage of papers as paperwork require bundles of document copies. 
@@ -40,8 +44,6 @@
 - All the dues should be compulsorily paid to obtain Leaving Certificate.
 - Eco friendly and less electricity consumption.
 
-## Demo Video Link 👇🏻
-https://www.youtube.com/watch?v=VLvS8Zu626M
 
 ## Authors
  It was a Diploma final year project made by-\

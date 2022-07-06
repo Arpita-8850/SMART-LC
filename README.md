@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=VLvS8Zu626M
 7. Microsoft Visual redistributable packages
 
 ## Languages used:
-1. JAVA
+1. JavaScript
 2. PHP
 3. HTML
 4. CSS

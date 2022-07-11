@@ -18,18 +18,15 @@ https://www.youtube.com/watch?v=VLvS8Zu626M
 
 ## Software tools required:
 1. WAMP server
-2. Apache
-3. PHP
-4. MariaDB
-5. MySQL
+2. MySQL Database
 6. PHPmyAdmin
-7. Microsoft Visual redistributable packages
 
 ## Languages used:
-1. JavaScript
-2. PHP
-3. HTML
-4. CSS
+1. HTML5
+2. CSS
+3. JavaScript
+4. PHP
+5. SQL
 
 ![alt text](https://github.com/Arpita-8850/SMART-LC/blob/master/working%20block%20diagram.png)
 ## Features:
